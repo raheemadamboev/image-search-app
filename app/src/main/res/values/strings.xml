@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="not_loaded">Results could not be loaded</string>
+    <string name="retry">Retry</string>
+    <string name="not_query">No results found for this query</string>
+    <string name="search">Search</string>
+    <string name="photo_by">Photo by</string>
+    <string name="on_unsplash">on Unsplash</string>
+    <string name="choose">Choose</string>
+</resources>
