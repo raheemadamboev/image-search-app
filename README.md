@@ -14,8 +14,8 @@ Unsplash API is used for getting images  <a href="https://unsplash.com/developer
 - Retrofit
 - Dependency injection (Hilt)
 - Kotlin coroutines
-- Paging 3
-- Navigation components
+- Jetpack Paging 3
+- Jetpack Navigation Component
 - View binding
 - Glide
 - Process death
